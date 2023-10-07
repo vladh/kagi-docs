@@ -47,7 +47,7 @@ Orion was built for professionals by professionals, but anyone can benefit from 
 <a name="intro_vide"></a>
 ## How do I replay the intro video?
 
-Watch is here in even higher quality!
+Watch it here in even higher quality!
 
 [Orion intro animation](https://vimeo.com/689121874)
 
@@ -84,7 +84,7 @@ Google and Mozilla have made great technological strides over the past decades. 
 <a name="howfast"></a>
 ## How fast is Orion?
 
-We are... ahem.. [fast](../why-orion/orion-speed.md).
+We are...ahem...[fast](../why-orion/orion-speed.md).
 
 <a name="memory"></a>
 ## How much memory does Orion use?
